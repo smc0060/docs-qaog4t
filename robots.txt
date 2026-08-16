@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-l5vpkf.hartawin-pro.online/sitemap.xml
